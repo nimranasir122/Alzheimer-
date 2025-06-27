@@ -1,1 +1,1 @@
-# Alzheimer-
+Automated Alzheimer’s Diagnosis
